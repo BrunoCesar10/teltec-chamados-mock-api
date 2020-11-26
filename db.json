@@ -1,0 +1,10 @@
+{
+  "chamados": [
+    {
+      "id": 43587,
+      "criador": "b.vieira@teltecsolutions.com.br",
+      "descricao": "Exemplo de chamado aberto",
+      "status": "aberto"
+    }
+  ]
+}
